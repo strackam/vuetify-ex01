@@ -90,6 +90,10 @@
         items: [{
           icon: 'bubble_chart',
           title: 'Inspire'
+        },
+        {
+          icon: 'bubble_chart',
+          title: 'Logout'
         }],
         miniVariant: false,
         right: true,
